@@ -238,8 +238,8 @@ struct dec_level_by_current_ua {
 	int dec_level;
 };
 static struct dec_level_by_current_ua dec_level_curr_table[] = {
-							{1900000, 2},
-							{900000, 4},
+							{900000, 2},
+							{600000, 4},
 							{0, 6},
 };
 
