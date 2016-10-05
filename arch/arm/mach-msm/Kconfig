@@ -2632,4 +2632,8 @@ config CPU_FREQ_GOV_SMARTMAX_M7
 	bool "Sets' m7 as default config for smartmax cpu governor"
 	default n
 
+config CPU_FREQ_GOV_SMARTMAX_9L5
+	bool "Sets' m7 as default config for smartmax cpu governor"
+	default n
+
 endif
