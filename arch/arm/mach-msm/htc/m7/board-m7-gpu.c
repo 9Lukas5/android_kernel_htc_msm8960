@@ -24,9 +24,9 @@
 
 #ifdef CONFIG_MSM_DCVS
 static struct msm_dcvs_freq_entry grp3d_freq[] = {
-	{0, 750, 0, 0, 0},
-	{0, 800, 0, 0, 0},
+	{0, 775, 0, 0, 0},
 	{0, 825, 0, 0, 0},
+	{0, 850, 0, 0, 0},
 	{0, 1150, 1, 100, 100},
 };
 
