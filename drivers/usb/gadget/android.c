@@ -1875,7 +1875,7 @@ static struct android_usb_function *supported_functions[] = {
 	&mass_storage_function,
 	&accessory_function,
 	&audio_source_function,
-	&hid_function,
+	&hid_function,	
 	&uasp_function,
 	NULL
 };
